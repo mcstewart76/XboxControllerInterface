@@ -1,0 +1,29 @@
+{
+  "name": "xboxcontrollerinterface",
+  "version": "1.0.0",
+  "description": "Xbox Controller Interface for Newer version of node",
+  "main": "XCI.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mcstewart76/XboxControllerInterface.git"
+  },
+  "keywords": [
+    "Xbox",
+    "button-mapping",
+    
+    "xbox-mapping",
+    
+    "controller-mapping",
+    
+    "controller"
+  ],
+  "author": "Chris Stewart",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mcstewart76/XboxControllerInterface/issues"
+  },
+  "homepage": "https://github.com/mcstewart76/XboxControllerInterface#readme"
+}
